@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP_RV_Test</string>
+    <string name="photo_image_description">photo_image</string>
+    <string name="shuffle">shuffle</string>
+</resources>
